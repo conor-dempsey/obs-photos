@@ -1,0 +1,21 @@
+---
+eleventyNavigation:
+  key: Home
+  order: 0
+heading: Photo Gallery
+description: A collection of recent images. 
+layout: main.njk
+title: Photo Gallery Template
+meta_desc: A collection of recent images. 
+url: https://eleventy-gallery.netlify.app
+img: /images/site test - 15 of 15.jpeg
+alt: Young people jumping off of a peer in Stone Town, Zanzibar.
+cardType: summary_large_image
+---
+
+<div class="page-banner">
+  <h1>{{ heading }}</h1>
+  <p>{{ description }}</p>
+</div>
+
+{% include "partials/home-gallery.njk" %}
