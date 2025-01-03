@@ -1,9 +1,9 @@
 {   
     "author": {
         "firstName": "Abhishek",
-        "lastName": "Bhattacharyya",
+        "lastName": "",
         "email": "foobar@gmail.com",
-        "about": "Anthropologist and photographer living in NYC. Interested in ... "
+        "about": " photographer living in ... Interested in ... "
     },
     "pageMetadata": {
         "home": {
@@ -13,7 +13,7 @@
             "content": "All of my work in one place."
         },
         "featured": {
-            "content": "from Abhishek Bhattacharyya's gallery"
+            "content": "from Abhishek's gallery"
         },
         "about": {
             "content": "A page about me!"
